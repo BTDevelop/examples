@@ -10,7 +10,7 @@
   "dependencies": {
     "aws-lambda": "^0.1.2",
     "aws-sdk": "^2.553.0",
-    "source-map-support": "^0.5.10"
+    "source-map-support": "^0.5.21"
   },
   "devDependencies": {
     "@types/aws-lambda": "^8.10.17",
